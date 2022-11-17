@@ -1,5 +1,5 @@
-NAME = bdi/my-elasticsearch
-VERSION = 1.6.0
+NAME = bdi/my-tomcat
+VERSION = 1.0.0
 
 .PHONY: all build test tag_latest release ssh
 
